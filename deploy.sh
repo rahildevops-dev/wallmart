@@ -1,5 +1,2 @@
-This line is added for updation 
-
-hii how RE YOU 
+This line is added for updation  
 Hello this filre contains deploymewnt script
-
